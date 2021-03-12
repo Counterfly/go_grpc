@@ -1,2 +1,2 @@
-# go_grpc
+# grpc_go
 Learning go grpc
